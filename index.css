@@ -28,21 +28,21 @@ mostrar el menú a l'esquerra */
     display: none; /* franja superior oculta per optimitzar l'espai*/
 }
 
-#seccio_1{
+#seccio_1 {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 4vmax;
     background-color: rgb(246, 247, 200);
 }
-#seccio_2{
+#seccio_2 {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 4vmax;
     background-color: #e6cfe2;
 }
-#seccio_3{
+#seccio_3 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@ mostrar el menú a l'esquerra */
     background-color: rgb(203, 226, 230) ;
 }
 
-#seccio_4{
+#seccio_4 {
     display: flex;
     justify-content: center ;
     align-items: center;
